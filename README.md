@@ -33,4 +33,4 @@ pytest tests/ -v
 
 ## License
 
-License file not included in this repository yet; add a `LICENSE` (e.g. MIT) when you choose terms.
+[MIT](LICENSE)
